@@ -1,4 +1,9 @@
-# Grupo de Programação Aplicada à Geofísica (GPGEOF) 
+# Grupo de Programação Aplicada à Geofísica (GPGEOF)
+
+## :dollar: Seja apoiador do GPGEOF:
+### O Grupo de Programação Aplicada à Geofísica precisa do seu apoio para continuar a produzir conteúdo gratuito de qualidade
+
+[QUERO AJUDAR O GPGEOF](https://apoia.se/gpgeof)
 
 ## Projetos
 
